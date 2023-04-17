@@ -1,42 +1,42 @@
 [[IntelOpenMP]]
 arch = "x86_64"
-git-tree-sha1 = "e76af028a823f7e7c18226c8079d03035c2e4c46"
+git-tree-sha1 = "5d3b19b7af4767d5b1cfbc9f08b4be9b87507d4b"
 os = "macos"
 
     [[IntelOpenMP.download]]
-    sha256 = "a6b58de42a450fa0253bbd417572e8f1549ebe5aaddae3bf088b2e29007de1bd"
-    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2018.0.3+2/IntelOpenMP.v2018.0.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "8330c3e82b1cf82de9005cef205148c290eccac04cb87928c2fde57147bc4dc7"
+    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2023.1.0+0/IntelOpenMP.v2023.1.0.x86_64-apple-darwin.tar.gz"
 [[IntelOpenMP]]
 arch = "i686"
-git-tree-sha1 = "2abeb9a6b565e7cb08542447d6c05b28c638f4a1"
+git-tree-sha1 = "774e03037991fd2190d3dc81c015934a640267dc"
 libc = "glibc"
 os = "linux"
 
     [[IntelOpenMP.download]]
-    sha256 = "9e5659180ce6f80e771f436a840de8355f998fe3cae8dbfc1f9634c9dabca7ae"
-    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2018.0.3+2/IntelOpenMP.v2018.0.3.i686-linux-gnu.tar.gz"
+    sha256 = "93f3c6ec7220837d715fb2f4a9c5082f15f777e8c4c45acc4c26a8762a086852"
+    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2023.1.0+0/IntelOpenMP.v2023.1.0.i686-linux-gnu.tar.gz"
 [[IntelOpenMP]]
 arch = "i686"
-git-tree-sha1 = "1aef321e2cf79fc656be96b261396342d8f6d017"
+git-tree-sha1 = "36b6d994f10f9d30cc0d98c2e8819f247c1ee19b"
 os = "windows"
 
     [[IntelOpenMP.download]]
-    sha256 = "f9999c7d9ccc222f90db23513dc0b28d19bd9b92015d24b16640378e2a753b5b"
-    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2018.0.3+2/IntelOpenMP.v2018.0.3.i686-w64-mingw32.tar.gz"
+    sha256 = "ff26c9ee1b17c2d67dc804f8d58118bbe182df02f9eee956522862f6db8d97d1"
+    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2023.1.0+0/IntelOpenMP.v2023.1.0.i686-w64-mingw32.tar.gz"
 [[IntelOpenMP]]
 arch = "x86_64"
-git-tree-sha1 = "947793e42b663bacd09f00d96aa96a47095f3b1c"
+git-tree-sha1 = "a2e1b408224738d429e9a65b8ad5d94ff58cc1a7"
 libc = "glibc"
 os = "linux"
 
     [[IntelOpenMP.download]]
-    sha256 = "f40e3d5f625eb5ba907c9b73fd8d4adf5e74dadbc0022f5be2185e93228d0703"
-    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2018.0.3+2/IntelOpenMP.v2018.0.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "00f29a5e8f76462fc258f3aa13869bfcc92bcaa9f35736eab1560b7f4a8c7b1c"
+    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2023.1.0+0/IntelOpenMP.v2023.1.0.x86_64-linux-gnu.tar.gz"
 [[IntelOpenMP]]
 arch = "x86_64"
-git-tree-sha1 = "e32fbb6cb3c81caf8ba4aecdf54a6fc215996b78"
+git-tree-sha1 = "350e71568ca7eb29f07862d75216c6bb9f91398e"
 os = "windows"
 
     [[IntelOpenMP.download]]
-    sha256 = "684f9554587017d5487a9121ff10c173b4e232842f462fe25ce4fb279e84a5e7"
-    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2018.0.3+2/IntelOpenMP.v2018.0.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "5162d13becda23847bed4cd57bc6205d341f642784c49b924c1d3164abc8e144"
+    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2023.1.0+0/IntelOpenMP.v2023.1.0.x86_64-w64-mingw32.tar.gz"
