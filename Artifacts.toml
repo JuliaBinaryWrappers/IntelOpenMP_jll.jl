@@ -6,7 +6,7 @@ os = "linux"
 
     [[IntelOpenMP.download]]
     sha256 = "b467c4defbb9feb2bba5c4cab5f9f6584eb989bfde802f0aaa32798dc218834e"
-    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2024.0.0+0/IntelOpenMP.v2024.0.0.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2024.0.0+1/IntelOpenMP.v2024.0.0.i686-linux-gnu.tar.gz"
 [[IntelOpenMP]]
 arch = "i686"
 git-tree-sha1 = "80aaeb076910f7ee19ad118eedf4cf863b4625a7"
@@ -14,7 +14,7 @@ os = "windows"
 
     [[IntelOpenMP.download]]
     sha256 = "ae13095ac811616aef15e313b27a799fb3e343c11996594beb59e200cb81d2cf"
-    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2024.0.0+0/IntelOpenMP.v2024.0.0.i686-w64-mingw32.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2024.0.0+1/IntelOpenMP.v2024.0.0.i686-w64-mingw32.tar.gz"
 [[IntelOpenMP]]
 arch = "x86_64"
 git-tree-sha1 = "6b48389600a5a2f7dcb58a15ced3ba94457609d4"
@@ -23,12 +23,12 @@ os = "linux"
 
     [[IntelOpenMP.download]]
     sha256 = "2f58e442ce58fa03204a8e39d202ed494912ee055d171689b7ab44a7a12e60bb"
-    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2024.0.0+0/IntelOpenMP.v2024.0.0.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2024.0.0+1/IntelOpenMP.v2024.0.0.x86_64-linux-gnu.tar.gz"
 [[IntelOpenMP]]
 arch = "x86_64"
-git-tree-sha1 = "e344af02295af1f002821fb0fab68149360f0aa5"
+git-tree-sha1 = "2008ed7cd3c63e072f51199edf390eabbe76f788"
 os = "windows"
 
     [[IntelOpenMP.download]]
-    sha256 = "84da471553f93f7ec2f3ca3e556dd79fbc09ea8cb1804438836515322c385e6b"
-    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2024.0.0+0/IntelOpenMP.v2024.0.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b302f6803309cf7eb2dc662cc5e5f0f31a2146ee984625e96b38bfb3f8a5085e"
+    url = "https://github.com/JuliaBinaryWrappers/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2024.0.0+1/IntelOpenMP.v2024.0.0.x86_64-w64-mingw32.tar.gz"
